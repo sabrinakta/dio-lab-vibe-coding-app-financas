@@ -1,4 +1,4 @@
-# 💸 App de Controle de Finanças Pessoais com Vibe Coding
+# 💸 App de Controle de Finanças Pessoais da Sabrina com Vibe Coding
 
 **PRD Refinado no Copilot Web:**
 
@@ -147,7 +147,7 @@ As telas principais estruturam o fluxo do usuário de forma clara e intuitiva:
 ## REFLEXÃO
 
 ### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito pois os créditos do Lovable são limitados e fiquei com receio de não conseguir pedir os ajustes que foram necessários para corrigir as falhas do app durante o vibe coding.
+O refinamento do PRD previamente feito no Copilot ajudou muito porque ajuda a economizar os créditos do Lovable já que são limitados na categoria gratuita. Até fiquei com receio de não conseguir pedir os ajustes que fossem necessários para corrigir as falhas do app durante o vibe coding mas deu pra interagir bastante.
 
 ### O que não funcionou como o esperado?  
 O app não funciona perfeitamente logo que é criado. A gente precisa fazer as perguntas de maneira assertiva para que o Lovable possa corrigir as falhas que surgem na execução do app. Temos que interagir no app imputando informações pra testar como ele as processa e poder verificar os ajustes que podem ser necessários.
